@@ -1,1 +1,1 @@
-<image src="/images/how.png"
+![Дз](/images/picture.jpg)
